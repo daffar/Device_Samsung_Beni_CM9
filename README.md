@@ -1,4 +1,4 @@
-Device_Tree_Cm9---Beni---
+Device_Samsung_Beni_CM9
 =========================
 
 Device Config for CM9 
