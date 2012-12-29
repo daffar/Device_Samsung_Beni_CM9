@@ -10,6 +10,7 @@ windowsmgr.max_events_per_sec=150
 video.accelerate.hw=1
 ro.telephony.call_ring.delay=0
 ro.ril.disable.power.collapse=0
+com.qc.hardware=true
 
 # RIL
 rild.libpath=/system/lib/libsec-ril.so
@@ -18,6 +19,7 @@ ro.telephony.default_network=0
 ro.com.android.dataroaming=false
 ro.ril.hsxpa=1
 ro.ril.gprsclass=10
++ro.com.android.wifi-watchlist=GoogleGuest
 
 #MM Camera
 ro.media.enc.vid.m4v.fps=5,15
